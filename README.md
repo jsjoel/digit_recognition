@@ -1,15 +1,15 @@
 # Digit Recognition
 ## **Description**
 ## **Table of Contents**
-- [General Information](https://github.com/jsjoel/iris_classification/blob/main/README.md#general-information)
-- [Technologies Used](https://github.com/jsjoel/iris_classification#technologies-used)
-- [Features](https://github.com/jsjoel/iris_classification#features)
-- [Dataset](https://github.com/jsjoel/iris_classification#dataset)
-- [Setup](https://github.com/jsjoel/iris_classification#setup-)
-- [Project requirements/dependencies](https://github.com/jsjoel/iris_classification#project-requirementsdependencies)
-- [Extentions for Vscode](https://github.com/jsjoel/iris_classification#extentions-for-vscode)
-- [Acknowledgements](https://github.com/jsjoel/iris_classification#acknowledgements)
-- [Contact](https://github.com/jsjoel/iris_classification#contact)
+- [General Information](https://github.com/jsjoel/digit_recognition#general-information)
+- [Features](https://github.com/jsjoel/digit_recognition#features)
+- [Dataset](https://github.com/jsjoel/digit_recognition#dataset)
+- [Setup](https://github.com/jsjoel/digit_recognition#setup-)
+- [Project requirements/dependencies](https://github.com/jsjoel/digit_recognition#project-requirementsdependencies)
+- [Extentions for Vscode](https://github.com/jsjoel/digit_recognition#extentions-for-vscode)
+- [Installations](https://github.com/jsjoel/digit_recognition#installations)
+- [Acknowledgements](https://github.com/jsjoel/digit_recognition#acknowledgements)
+- [Contact](https://github.com/jsjoel/digit_recognition#contact)
 
 ## **General Information:**
 
@@ -17,9 +17,6 @@
 - It utilizes a trained model to accurately predict the digit from an input image.
 - CNN based approach
 
-## **Technologies Used:**
-
-- VScode, keras
 ## **Features:**
 
 1. Accurately recognizes handwritten digits (0-9).
